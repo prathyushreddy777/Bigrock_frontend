@@ -1011,7 +1011,7 @@ select:focus {
 	width: 600px;
 	height: 225px;
 	z-index: 300;
-	top: 50px;
+	top: 49px;
 	left: 0px;
 	box-shadow: 1px 5px 6px #bababa;
 	display: none;
